@@ -5,6 +5,8 @@ Logo file for Markmap Universe.
 
 ## hexo-markmap logo
 
-Modified from the [Hexo logo](https://github.com/hexojs/logo/), originally created by Hexo, licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+This logo is based on:  
+- The [Hexo logo](https://github.com/hexojs/logo/) logo, licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).  
+- The [markmap](https://github.com/markmap/markmap-vscode/blob/master/assets/favicon.png) logo, licensed under the [MIT License](https://github.com/markmap/markmap-vscode/blob/master/LICENSE).
 
-This work is also licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). 
+This modified version is released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) and the [MIT License](https://opensource.org/licenses/MIT).
